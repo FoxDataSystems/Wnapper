@@ -1,0 +1,8 @@
+Pillow
+numpy
+keyboard
+pyautogui
+tkinter
+datetime
+easyocr
+pywin32  # Only needed for Windows clipboard functionality
